@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tan</h1>
 <h3 align="center">A passionate UX/UI design and frontend developer from Thailand</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-gamma-eight-50.vercel.app/](https://portfolio-gamma-eight-50.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://thidayuportfolio.vercel.app/](https://thidayuportfolio.vercel.app/)
 
 - 📫 How to reach me **thidayu.pt@gmail.com**
 
